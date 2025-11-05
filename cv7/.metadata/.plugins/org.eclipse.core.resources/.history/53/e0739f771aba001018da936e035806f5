@@ -1,0 +1,13 @@
+/*
+ * lis2dw12_reg.h
+ *
+ *  Created on: Nov 5, 2025
+ *      Author: 240654
+ */
+
+#ifndef INC_LIS2DW12_REG_H_
+#define INC_LIS2DW12_REG_H_
+
+
+
+#endif /* INC_LIS2DW12_REG_H_ */
