@@ -1,0 +1,14 @@
+"Task Aware Debugger for GDB" version 25.6.0 (202506250844)
+Copyright 2016-2025 NXP
+==================================
+09:00:26.716 INFO: [ZephyrRTOS] .config file could not be read [C:\Temp\MPC-MKS\cv8\lpcxpresso55s69_hello_world_cm33_core0\Debug\.config (The system cannot find the file specified)]
+09:00:26.716 INFO: [TadModel] DSF session ID 0 has started.
+09:00:31.873 INFO: [ZephyrRTOS] .config file could not be read [invalid launch in DSF session]
+09:00:31.873 INFO: [TadModel] DSF session ID 1 has started.
+09:00:32.967 INFO: [TadState] TAD state changed: DEBUG_STARTED -> DEBUG_INIT_0 (SUSPENDED, USER_REQUEST)
+09:00:33.75 INFO: [TadState] TAD state changed: DEBUG_INIT_0 -> DEBUG_INIT_1 (SUSPENDED, USER_REQUEST)
+09:00:34.182 INFO: [TadState] TAD state changed: DEBUG_INIT_1 -> DEBUG_SUSPENDED (RESUMED, USER_REQUEST)
+09:00:34.248 INFO: [TadState] TAD state changed: DEBUG_SUSPENDED -> DEBUG_SUSPENDED (SUSPENDED, BREAKPOINT)
+09:02:40.57 INFO: [TadState] TAD state changed: DEBUG_SUSPENDED -> DEBUG_RESUMED (RESUMED, USER_REQUEST)
+10:11:12.671 INFO: [TadState] TAD state changed: DEBUG_RESUMED -> READY (SUSPENDED, SIGNAL)
+10:11:13.680 INFO: [TadModel] DSF session ID 0 has ended.
