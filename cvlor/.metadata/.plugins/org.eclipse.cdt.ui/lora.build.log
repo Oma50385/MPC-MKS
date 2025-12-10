@@ -1,0 +1,10 @@
+10:55:32 **** Incremental Build of configuration Debug for project lora ****
+make -j4 all 
+arm-none-eabi-size  lora.elf 
+   text	   data	    bss	    dec	    hex	filename
+  30552	    360	   2360	  33272	   81f8	lora.elf
+Finished building: default.size.stdout
+ 
+
+10:55:32 Build Finished. 0 errors, 0 warnings. (took 527ms)
+
